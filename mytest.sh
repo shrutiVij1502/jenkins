@@ -3,3 +3,4 @@ date
 cal
 echo "bye"
 echo "final trigger github"
+echo "check jenkin auto trigger"
